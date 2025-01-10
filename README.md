@@ -20,5 +20,4 @@ This project has for objective the development of an NLP Model automating the cu
 - model 3.ipynb : LLM summarizer concept
 - Presentation.pptx : PPTX presenting the project
 - Final.csv : CSV file with snetiment and category clustering
-- 1429_1.csv : Original dataset
 ---
